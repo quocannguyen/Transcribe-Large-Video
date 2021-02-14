@@ -1,5 +1,5 @@
-# Transcribe-Large-Video-Files
-Transcribe Large Video Files
+# Transcribe-Large-Video
+Transcribe Large Video
 
 Install packages: pydub, SpeechRecognition
 
